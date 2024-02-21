@@ -1,4 +1,4 @@
-FROM python:alpine3.18
+FROM python:3.13.0a4-alpine3.18
 WORKDIR /app
 COPY . /app
 RUN apk add --no-cache build-base libffi-dev libxml2-dev libxslt-dev
