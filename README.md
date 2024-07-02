@@ -1,3 +1,7 @@
+README.md
+# Python Version
+python3.6+
+DNSRecon requires python3.6+ snyk-fix-74bd8d9344637e0e0d5c212dd83e56d8
 
 # DNSRecon
 
@@ -16,3 +20,4 @@ This script provides the ability to perform:
 
 # Python Version
 DNSRecon requires python3.6+
+snyk-fix-74bd8d9344637e0e0d5c212dd83e56d8
